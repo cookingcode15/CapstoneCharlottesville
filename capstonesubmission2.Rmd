@@ -6,7 +6,7 @@
 
 #### _What is the problem you want to solve?_
   
-The problem I want to solve in this project is to decrease the amount of weaponized language on Twitter that has created violence, threats, tension and division on Twitter based on the events leading to protests in Charlottesville in 2017. 
+The problem I want to solve in this project is to identify potentially volatile accounts that have the capability of causing social unrest and civil disobedience. These accounts should be able to be banned before anything dangerous should occur.
  
     
 
@@ -52,4 +52,5 @@ There would be 4 different clean sets of code, exploration of data, and plots or
  3. Largest influencers on Twitter affecting the events of Charlottesville, including Account Names, ID numbers, Most Popular Tweets (highest amount of retweets) socially affected.
  
  4. Sentiment analysis that would show keywords that were widely used to express and represent anger and violence. A colored graph would be helpful to create emotional intensity that caused the actual violence.
+
 
